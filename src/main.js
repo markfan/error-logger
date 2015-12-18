@@ -1,5 +1,5 @@
 /**
- * ER-Track
+ * error-log
  * Copyright 2013 Baidu Inc. All rights reserved.
  *
  * @file 错误监控模块
