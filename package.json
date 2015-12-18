@@ -1,0 +1,15 @@
+{
+    "name": "error-logger",
+    "version": "0.0.1",
+    "contributors": [
+        {
+            "name": "fanxueliang",
+            "email": "fanxueliang@baidu.com"
+        }
+    ],
+    "dependencies": {},
+    "main": "main",
+    "description": "用于页面错误统计套件",
+    "homepage": "https://github.com/markfan/error-logger",
+    "repository": "git://github.com/markfan/error-logger"
+}
