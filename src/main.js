@@ -3,7 +3,7 @@
  * Copyright 2013 Baidu Inc. All rights reserved.
  *
  * @file 错误监控模块
- * @author fanxueliang(fanxueliang@baidu.com)
+ * @author fanxueliang(fanxueliang.g@hotmail.com)
  */
 
 (function (root) {
